@@ -40,7 +40,7 @@
         "breadcrumbs": true
     },
     "jitsi": {
-        "preferred_domain": "https://meet.mayfirst.org/"
+        "preferred_domain": "https://meet.mayfirst.org"
     },
     "element_call": {
         "url": "https://call.element.io",
