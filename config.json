@@ -38,9 +38,9 @@
     },
     "setting_defaults": {
         "breadcrumbs": true
-    },
+      },
     "jitsi": {
-        "preferred_domain": "meet.mayfirst.org"
+        "preferred_domain": "meet.element.io"
     },
     "element_call": {
         "url": "https://call.element.io",
