@@ -13,14 +13,15 @@
     "disable_login_language_selector": false,
     "disable_3pid_login": false,
     "brand": "pbkchat",
-    "integrations_ui_url": "https://scalar.vector.im/",
-    "integrations_rest_url": "https://scalar.vector.im/api",
+    "integrations_ui_url": "https://dimension.t2bot.io/element",
+    "integrations_rest_url": "https://dimension.t2bot.io/api/v1/scalar",
     "integrations_widgets_urls": [
         "https://scalar.vector.im/_matrix/integrations/v1",
         "https://scalar.vector.im/api",
         "https://scalar-staging.vector.im/_matrix/integrations/v1",
         "https://scalar-staging.vector.im/api",
-        "https://scalar-staging.riot.im/scalar/api"
+        "https://scalar-staging.riot.im/scalar/api",
+        "https://dimension.t2bot.io/widgets"
     ],
     "default_country_code": "US",
     "show_labs_settings": true,
